@@ -2,7 +2,7 @@
 Download psf, pdb and CHARMM parameter files from ligandrm of charmm-gui.org with Python.
 
 ## Dependency
-playwright (tested version: 1.29.0) for python
+Playwright (tested version: 1.29.0) for Python
 
 ## Structure of package
 
