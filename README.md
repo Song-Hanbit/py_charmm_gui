@@ -28,6 +28,8 @@ py_charmm_gui.py may directly executed at terminal
     $ python3 (your pkg dir)/py_charmm_gui.py -r -j (json file) -st (download dir)
     ### example 2 ###
     $ python3 (your pkg dir)/py_charmm_gui.py -l ETOH -s CCO
+    ### example 3 ###
+    $ python3 (your pkg dir)/py_charmm_gui.py -l ACR -s "CC(=O)OCC[N+](C)(C)C"
     
 or ipy_charmm_gui.py may imported and executed line by line at ipython.
 
