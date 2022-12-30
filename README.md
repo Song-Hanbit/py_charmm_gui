@@ -37,6 +37,8 @@ or ipy_charmm_gui.py may imported and executed line by line at ipython.
     ipy_charmm_gui.reset_account()
     ipy_charmm_gui.make_json_and_run_ligandrm({ "DZN": "C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O", 
                                                 "ETOH": "CCO"}, send_to=(download dir))
+                                                
+Top option at the "Search ligand" step will be automatically selected (generally, "Make CGenFF topology" @ "Exact").
 
 ## References:
 * Charmm-gui ligand reader & modeller:  https://www.charmm-gui.org/?doc=input/ligandrm
